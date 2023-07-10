@@ -1,24 +1,162 @@
-# README
+<a id="readme-top"></a>
+# Link to front-end
+[Front-end repo](https://github.com/DavidEspinoG/hello-react-front-end/tree/redux-router)
+# 📗 Table of Contents
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 React Rails practice (backend) ](#-capstone_project_2_api-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+    - [Live demo](#live-demo)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-Things you may want to cover:
+<!-- PROJECT DESCRIPTION -->
 
-* Ruby version
+# 📖 React Rails practice (backend) <a id="about-project"></a>
 
-* System dependencies
+Small project created with the purpose of learning how to implement React inside a Ruby on Rails application
 
-* Configuration
+## 🛠 Built With <a id="built-with"></a>
 
-* Database creation
+### Tech Stack <a id="tech-stack"></a>
 
-* Database initialization
+- Ruby on Rails
+- React
 
-* How to run the test suite
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>React</li>
+    <li>Ruby on Rails</li>
+  </ul>
+</details>
 
-* Services (job queues, cache servers, search engines, etc.)
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="#">Ruby on Rails</a></li>
+  </ul>
+</details>
 
-* Deployment instructions
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="#">Postgresql</a></li>
+  </ul>
+</details>
 
-* ...
+<!-- Features -->
+
+### Key Features <a id="key-features"></a>
+
+- Shows a random greeting message each time
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a id="getting-started"></a>
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Ruby 3.2.2 installed in your machine
+### Setup
+
+Clone this repository to your desired folder:
+
+> git clone https://github.com/DavidEspinoG/Microverse_rails_react.git
+
+### Install
+
+Install this project with:
+
+> bundle install
+
+### Usage
+
+> ./bin/dev
+
+and open http://localhost:3000
+
+
+### Run tests
+
+To run tests, run the following command:
+
+> rspec 
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a id="authors"></a>
+
+
+👤 **David Espino**
+
+- GitHub: [@DavidEspinoG](https://github.com/DavidEspinoG)
+- Twitter: [@DavidEspinoG](https://twitter.com/DavidEspinoG)
+- LinkedIn: [davidespinog](https://linkedin.com/in/davidespinog)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a id="future-features"></a>
+
+- Nicer styling
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a id="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/DavidEspinoG/math_magicians/issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a id="support"></a>
+
+If you like this project please star this repo.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a id="acknowledgements"></a>
+
+I would like to thank Microverse
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a id="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
